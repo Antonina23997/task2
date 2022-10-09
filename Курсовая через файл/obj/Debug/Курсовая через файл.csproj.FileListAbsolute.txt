@@ -1,0 +1,81 @@
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Курсач\Курсовая через файл 2\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\nar445\Desktop\Курсовая через файл 2\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\nar445\Desktop\Курсовая через файл 2(доделанная)\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\Антонина\Desktop\щ\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\Антонина\Desktop\Работает идеально\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\Антонина\Desktop\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\bin\Debug\Курсовая через файл.exe.config
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\bin\Debug\Курсовая через файл.exe
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\bin\Debug\Курсовая через файл.pdb
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.csprojResolveAssemblyReference.cache
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\obj\Debug\Курсовая_через_файл.Form1.resources
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\obj\Debug\Курсовая_через_файл.Properties.Resources.resources
+C:\Users\Антонина\Desktop\ООП курсовая\курсов\Курсовая через файл\obj\Debug\Курсовая через файл.csproj.GenerateResource.Cache
